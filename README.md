@@ -1,2 +1,3 @@
 # KIFU-
-KIFU IS Blood donation management
+KIFU IS Blood donation management system 
+PHP SQL 
